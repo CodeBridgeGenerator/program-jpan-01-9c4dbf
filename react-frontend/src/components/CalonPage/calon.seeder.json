@@ -1,0 +1,7 @@
+[
+    {
+        "pengguna": "string",
+        "latihan": "string",
+        "status": "string"
+    }
+]

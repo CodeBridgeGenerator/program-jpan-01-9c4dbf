@@ -1,0 +1,8 @@
+[
+    {
+        "latihan": "string",
+        "pelulus": "string",
+        "status": "string",
+        "komen": "textarea"
+    }
+]

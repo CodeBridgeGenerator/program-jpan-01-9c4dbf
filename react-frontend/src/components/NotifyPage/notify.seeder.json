@@ -1,0 +1,8 @@
+[
+    {
+        "tajuk": "string",
+        "venue": "string",
+        "tarikh": "date",
+        "penganjur": "string"
+    }
+]
